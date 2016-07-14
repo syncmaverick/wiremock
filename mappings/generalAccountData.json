@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/generalAccountData"
+  },
+  "response": {
+    "status": 200,
+    "body": "{\"headerResponse\": {\"ConsumerUniqueRefNo\": \"ams126588\",\"ServiceResCode\": \"00000\",\"ServiceResDesc\": \"SUCCESS\"},\"qtyRowsReturned\": \"1\",\"cardNumber\": \"4929460642483008\",\"accountNumber\": \"4929606424832\",\"accountFoundIndicator\": \"Y\",\"cardholderId\": \"196922080\",\"primaryCardNumber\": \"4929460642483008\",\"additionalCard\": \"\"}"
+  }
+}
