@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/readAccountStatus"
+  },
+  "response": {
+    "status": 200,
+    "body": "{\"headerResponse\":{\"ConsumerUniqueRefNo\":\"ams126588\",\"ServiceResCode\":\"00000\",\"ServiceResDesc\":\"SUCCESS\",},\"numberOfRowsReturned\":\"\",\"cardNumber\":\"\",\"accountNumber\":\"\",\"accountStatusCode\":\"\",\"accountStatusCodeDescription\":\"\",\"dateAccountOpened\":\"\",\"currentBalance\":\"\",\"currentCreditLimit\":\"\",\"productNumber\":\"\",\"productNumberDescription\":\"\",\"collectionsStatusCode\":\"\",\"collectionStatusDecode\":\"\",\"debtManagerStatus\":\"\",\"debtManagerStatusDescription\":\"\",\"chargeOffClassCode\":\"\",\"decodedChargeOffClass\":\"\",\"cardNumberPrimary\":\"\",\"amount1PaymentMissed\":\"\",\"amount2PaymentsMissed\":\"\",\"cashLimit\":\"\",\"dateLastCashLimitChanged\":\"\",\"fraudReferralCode\":\"\",\"fraudReferralDescription\":\"\",\"cardProductIssuer\":\"\",\"dateMemberSince\":\"\",\"additionalCardNumber\":\"\",\"additionalCardProductIssuer\":\"\",\"additionalProductNumber\":\"\",\"additionalProductNumberDescription\":\"\",\"quantityEqualPaymentPlan\":\"\",\"totalEppBalanceAmount\":\"\",\"eppMinimumDueAmount\":\"\",\"fullPayerBalance\":\"\",\"lastGeneratedEppPlanNumber\":\"\"}"
+  }
+}
